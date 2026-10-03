@@ -1,0 +1,7 @@
+{
+  "name": "Prodeel — Professional Services Marketplace",
+  "description": "Find verified licensed professionals in Cyprus without the hassle. Receive tailored proposals from top accountants, lawyers, insurance brokers, and business consultants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
